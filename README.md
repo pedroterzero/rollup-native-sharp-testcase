@@ -1,0 +1,1 @@
+# rollup-native-sharp-testcase
