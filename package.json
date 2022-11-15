@@ -1,0 +1,20 @@
+{
+  "name": "testcase",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "bundle": "rollup -c"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.31.2"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^23.0.2",
+    "@rollup/plugin-json": "^5.0.1",
+    "@rollup/plugin-node-resolve": "^15.0.1",
+    "rollup": "^3.3.0",
+    "rollup-plugin-natives": "^0.7.6"
+  }
+}
